@@ -1,0 +1,7 @@
+node_modules/
+.nyc_output/
+coverage/
+cypress/videos/
+cypress/screenshots/
+.env
+.DS_Store

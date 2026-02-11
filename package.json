@@ -1,0 +1,19 @@
+{
+  "name": "cypress-web-automation",
+  "version": "1.0.0",
+  "description": "Projeto simples de automação de testes web com Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
