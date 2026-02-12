@@ -1,7 +1,7 @@
 name: Regressivo Qazando #nome da pipeline
 on: # momento que será executada
     pull_request:
-        branches: [main]
+        branches: [master]
 jobs: # o job de execução
     cypress-run:
         runs-on: ubuntu-latest
